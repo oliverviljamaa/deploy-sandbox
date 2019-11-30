@@ -1,0 +1,8 @@
+{
+  "name": "deploy-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:oliverviljamaa/deploy-sandbox.git",
+  "author": "Oliver Viljamaa <oliver.viljamaa@gmail.com>",
+  "license": "MIT"
+}
