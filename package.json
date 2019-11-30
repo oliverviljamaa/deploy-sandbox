@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:oliverviljamaa/deploy-sandbox.git",
   "author": "Oliver Viljamaa <oliver.viljamaa@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "deploy-directory-on-branch-to-gh-pages": "^0.2.8"
+  }
 }
